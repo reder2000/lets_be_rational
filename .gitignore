@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+build/
+.idea
+utils/include/
+utils/src/
+utils/mapped/
+CMakeSettings.json
+.vs/
